@@ -5,6 +5,7 @@ import ClickCounter from "./ClickCounter";
 function App() {
   return (
     <div>
+       {/*comment*/}
       <ClickCounter />
     </div>
   );
